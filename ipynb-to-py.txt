@@ -1,0 +1,2 @@
+pip install nbconvert
+jupyter nbconvert --to script file.ipynb
